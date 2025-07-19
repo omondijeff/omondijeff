@@ -79,9 +79,9 @@ AI & Data:
 
 <div align="center">
   
-![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffOmondi&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
+![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=omondijeff&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffOmondi&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omondijeff&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 </div>
 
@@ -124,7 +124,7 @@ Developed LLMs for social media automation. Discovered the art of making AI inte
 
 ## 📊 Contribution Graph
 
-![Jeff's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JeffOmondi&theme=react-dark&hide_border=true)
+![Jeff's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=omondijeff&theme=react-dark&hide_border=true)
 
 ---
 
@@ -149,6 +149,6 @@ I'm always interested in discussing:
 
 **"Software is eating the world, but good software digests it properly."**
 
-⭐️ From [@JeffOmondi](https://github.com/JeffOmondi)
+⭐️ From [@omondijeff](https://github.com/omondijeff)
 
 </div>
