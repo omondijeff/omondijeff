@@ -4,7 +4,6 @@
 
 I build systems that work. Period.
 
-> Currently optimizing logistics at [@Greenspoon](https://greenspoon.co.ke) where I've helped drive 96% operational growth through better tooling and automation.
 
 ---
 
